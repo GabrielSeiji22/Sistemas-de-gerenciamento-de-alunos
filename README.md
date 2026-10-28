@@ -4,8 +4,15 @@ Hello World
 
 Integrantes:
 
-<br>Renan Alves<br>
-<br>Gabriel Seiji<br>
-<br>Heriky Pereira<br>
-<br>Gabriel Victor<br>
-<br>ivan Rodrigues thiago<br>
+Renan Alves
+<br>
+Gabriel Seiji
+<br>
+Heriky Pereira
+<br>
+Gabriel Victor
+<br>
+ivan Rodrigues thiago
+<br>
+Erick miguel
+<br>
