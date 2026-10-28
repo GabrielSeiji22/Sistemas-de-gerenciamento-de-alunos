@@ -8,4 +8,4 @@ Renan Alves
 Gabriel Seiji
 Heriky Pereira
 Gabriel Victor
-Ivan Rodrigues
+Ivan Rodrigues thiago
