@@ -9,3 +9,4 @@ Gabriel Seiji
 Heriky Pereira
 Gabriel Victor
 Ivan Rodrigues
+Erick Miguel 
