@@ -8,4 +8,4 @@ Integrantes:
 <br>Gabriel Seiji<br>
 <br>Heriky Pereira<br>
 <br>Gabriel Victor<br>
-<br> Rodrigues thiago<br>
+<br>ivan Rodrigues thiago<br>
