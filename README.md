@@ -57,7 +57,7 @@ npm run db:down
 
 - Renan Alves
 - Gabriel Seiji
-- Heriky Oliveira
-- Gabriel Victor
+- Heriky Pereira
+- Gabriel Victor de Nogueira e Silva
 - Ivan Rodrigues Thiago
 - Erick Miguel
